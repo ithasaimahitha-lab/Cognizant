@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Retail Inventory - Lab 1");
